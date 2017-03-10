@@ -3,7 +3,52 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/src/app/app-routing.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/app.component.css">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/app/app.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/app.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/dashboard.component.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/dashboard.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/dashboard.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/hero-detail.component.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/hero-detail.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/hero-detail.component.ts">
           <value>
             <set />
           </value>
@@ -13,7 +58,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/app/heroes.component.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/heroes.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/heroes.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/app/mock-heroes.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/styles.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/tsconfig.json">
           <value>
             <set />
           </value>
